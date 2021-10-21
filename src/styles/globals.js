@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 import { normalize } from 'styled-normalize';
 
+//estilo global
 const GlobalStyles = createGlobalStyle`
   ${normalize};
 
