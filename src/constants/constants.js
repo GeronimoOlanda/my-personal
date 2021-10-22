@@ -3,7 +3,7 @@ export const projects = [
     title: 'Alurakut',
     description: "Projeto Alurakut utilizando NextJs, React, Node, Style-Components, Figma - para refinamento e aprimoramento das habildades de programador!",
       image: '/images/alurakut.png',
-      tags: ['React', 'Next', 'GrahpQL', 'Styled-Component'],
+      tags: ['React', 'NextJs', 'GrahpQL', 'Styled-Component'],
     source: 'https://github.com/GeronimoOlanda/alurakut',
     visit: 'https://github.com/GeronimoOlanda/alurakut',
     id: 0,
